@@ -8,4 +8,7 @@ Table of contents:
 - prj4: A simple scene where a black and a white sphere rotate and move in the scene.
 - prj5: A simple scene where a C# script spawn randomly a prefab, a simple model of a couch.
 - prj6: A simple scene where the C# script for the Player and for the Game's UI, comunicate about the Player's death.
+- prj7: A simple game were the player has to survive in an environment of falling blocks (Build available).
 - More...
+
+© _CC IT S.p.A._ ™ - all rights reserved - projects made during Sebastian Lague's ["Intro to Game Development" course](https://www.youtube.com/playlist?list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw).
